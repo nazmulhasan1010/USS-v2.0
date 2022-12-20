@@ -38,7 +38,7 @@ $( function() {
             navbar.removeClass("nav-scroll");
         }
     });
-    
+
 
     // ---------- to top -----------
     wind.on("scroll", function() {
@@ -55,7 +55,7 @@ $( function() {
             toTop.removeClass("show");
         }
     });
-    
+
     // ------- to top -------
     $('.to_top').click(function() {
         $('html, body').animate({
@@ -126,11 +126,11 @@ $( function() {
             time: 2000
         });
 
-    // -------- blog effect --------
-    $(".blog .blog_box").mouseenter(function(){
+    // -------- blogPages effect --------
+    $(".blogPages .blog_box").mouseenter(function(){
         $(this).find(".text").slideDown();
     })
-    $(".blog .blog_box").mouseleave(function(){
+    $(".blogPages .blog_box").mouseleave(function(){
         $(this).find(".text").slideUp();
     })
 
@@ -198,7 +198,7 @@ $( function() {
       $dropdown.off("mouseenter mouseleave");
     }
   });
-  
+
 
 
 
@@ -240,7 +240,7 @@ $(document).ready(function() {
         }
     });
 
-    // ------------ blog sliders -----------
+    // ------------ blogPages sliders -----------
     var swiper = new Swiper('.blog_slider .swiper-container', {
         slidesPerView: 3,
         spaceBetween: 30,
@@ -445,7 +445,7 @@ $(document).ready(function() {
             }
         }
     });
-      
+
     // ------------ clients sliders -----------
     let SwiperBottom = new Swiper('.clients-slider5 .swiper-container', {
     spaceBetween: 0,
@@ -476,7 +476,7 @@ $(document).ready(function() {
         }
     }
     });
-      
+
     // ------------ testimonial sliders -----------
     var swiper = new Swiper('.testimonial-slider.style-5 .swiper-container', {
         slidesPerView: 4,
@@ -611,18 +611,18 @@ $(document).ready(function() {
     });
 
     // ------------ works sliders -----------
-    var swiper = new Swiper('.blog-details-slider .swiper-container', {
+    var swiper = new Swiper('.blogPages-details-slider .swiper-container', {
         slidesPerView: 1,
         spaceBetween: 0,
         effect: "fade",
         speed: 1000,
         pagination: {
-            el: ".blog-details-slider .swiper-pagination",
+            el: ".blogPages-details-slider .swiper-pagination",
             clickable: "true",
         },
         navigation: {
-            nextEl: '.blog-details-slider .swiper-button-next',
-            prevEl: '.blog-details-slider .swiper-button-prev',
+            nextEl: '.blogPages-details-slider .swiper-button-next',
+            prevEl: '.blogPages-details-slider .swiper-button-prev',
         },
         mousewheel: false,
         keyboard: true,

@@ -1,13 +1,13 @@
 /*
-Theme Name: Iteck     
+Theme Name: Iteck
 Theme URI: https://themeforest.net/
-Author: ThemesCamp 
-Author URI:  http://themeforest.net/user/themescamp/ 
+Author: ThemesCamp
+Author URI:  http://themeforest.net/user/themescamp/
 Description: Iteck is a Modern Software and Technology HTML Theme for agencies to show their creative works.
-Version: 1.0.1     
+Version: 1.0.1
 */
 /* -----------------------------------------------------------
-TABLE OF CONTENTS:-                                                                                                      
+TABLE OF CONTENTS:-
 --------------------------------------------------------------
 * variable
 	- text colors
@@ -16,17 +16,17 @@ TABLE OF CONTENTS:-
 * global
 	- Typography
 	- To top style
-	- inner page style  
+	- inner page style
 	- font family
-* helper         
-	- font-weight       
-	- font-size 
+* helper
+	- font-weight
+	- font-size
 	- line-height
-	- text-transform  
-	- letter-spacing 
-	- Overlay Effect Bg image     
+	- text-transform
+	- letter-spacing
+	- Overlay Effect Bg image
 	- margin-top
-	- margin-bottom 
+	- margin-bottom
 	- padding-top
 	- padding-bottom
 	- the spacing
@@ -43,7 +43,7 @@ TABLE OF CONTENTS:-
 * testimonials Sections
 * pricing Sections
 * team Sections
-* blog Sections
+* blogPages Sections
 * faq Sections
 * community Sections
 * screenshots Sections
@@ -66,7 +66,7 @@ TABLE OF CONTENTS:-
 
 ------------------------------------------------------------*/
 /* ===============================================================
-			[ * variable Section ] 
+			[ * variable Section ]
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
@@ -319,7 +319,7 @@ TABLE OF CONTENTS:-
       color: #fff; }
 
 /* ===============================================================
-			[ * global Section ] 
+			[ * global Section ]
 ================================================================*/
 /* --------------- global --------------- */
 *,
@@ -965,7 +965,7 @@ small.text {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%); }
 
 /* ===============================================================
-			[ * buttons Section ] 
+			[ * buttons Section ]
 ================================================================*/
 /* --------------- helper classes --------------- */
 /* --------------- radius classes --------------- */
@@ -1388,7 +1388,7 @@ small.text {
   font-size: 14px !important; }
 
 /* ===============================================================
-			[ * buttons Section ] 
+			[ * buttons Section ]
 ================================================================*/
 /* --------------- buttons styles --------------- */
 .butn,
@@ -1593,7 +1593,7 @@ small.text {
     transform: translateX(0); } }
 
 /* ===============================================================
-			[ * section title ] 
+			[ * section title ]
 ================================================================*/
 /* --------------- section head styles --------------- */
 .section-head h6 {
@@ -1807,7 +1807,7 @@ small.text {
     left: 0; }
 
 /* ===============================================================
-			[ * top navbar Section ] 
+			[ * top navbar Section ]
 ================================================================*/
 .top-navbar {
   z-index: 9999; }
@@ -1908,7 +1908,7 @@ small.text {
   font-size: 13px; }
 
 /* ===============================================================
-			[ * top side menu Section ] 
+			[ * top side menu Section ]
 ================================================================*/
 .side_menu.style-7 {
   position: fixed;
@@ -2097,7 +2097,7 @@ small.text {
       height: calc(100vh - 273px); } }
 
 /* ===============================================================
-			[ * navbar Section ] 
+			[ * navbar Section ]
 ================================================================*/
 /* --------------- navbar styles --------------- */
 .nav-container {
@@ -2706,7 +2706,7 @@ small.text {
     transform: rotate(140deg); }
 
 /* ===============================================================
-			[ * header Section ] 
+			[ * header Section ]
 ================================================================*/
 /* --------------- header styles --------------- */
 header.style-1 {
@@ -3821,7 +3821,7 @@ header.style-15 {
         width: 80px; }
 
 /* ===============================================================
-			[ * about Section ] 
+			[ * about Section ]
 ================================================================*/
 /* --------------- about styles --------------- */
 .about.style-1 {
@@ -4567,7 +4567,7 @@ header.style-15 {
   padding: 7px 0; }
 
 /* ===============================================================
-			[ * services Section ] 
+			[ * services Section ]
 ================================================================*/
 /* --------------- services styles --------------- */
 .services.style-1 {
@@ -5093,7 +5093,7 @@ header.style-15 {
         z-index: -1; }
 
 /* ===============================================================
-			[ * choose-us Section ] 
+			[ * choose-us Section ]
 ================================================================*/
 /* --------------- choose-usstyles --------------- */
 .choose-us.style-1 {
@@ -5392,7 +5392,7 @@ header.style-15 {
       color: #666; }
 
 /* ===============================================================
-			[ * portfolio Section ] 
+			[ * portfolio Section ]
 ================================================================*/
 /* --------------- portfolio styles --------------- */
 .portfolio.style-1 {
@@ -5934,7 +5934,7 @@ header.style-15 {
       margin-top: 20px; }
 
 /* ===============================================================
-			[ * testimonials Section ] 
+			[ * testimonials Section ]
 ================================================================*/
 /* --------------- testimonials styles --------------- */
 .testimonials.style-1 .content {
@@ -6707,7 +6707,7 @@ header.style-15 {
       margin-bottom: 10px; }
 
 /* ===============================================================
-			[ * testimonials Section ] 
+			[ * testimonials Section ]
 ================================================================*/
 /* --------------- pricing styles --------------- */
 .pricing.style-2 {
@@ -7420,7 +7420,7 @@ header.style-15 {
             border-color: #fff2; }
 
 /* ===============================================================
-			[ * team Section ] 
+			[ * team Section ]
 ================================================================*/
 /* --------------- team styles --------------- */
 .team.style-1 {
@@ -7736,9 +7736,9 @@ header.style-15 {
       margin-top: 5px; }
 
 /* ===============================================================
-			[ * blog Section ] 
+			[ * blogPages Section ]
 ================================================================*/
-/* --------------- blog styles --------------- */
+/* --------------- blogPages styles --------------- */
 .blog.style-1 .content .blog_slider {
   position: relative; }
   .blog.style-1 .content .blog_slider .swiper-button-next,
@@ -8212,7 +8212,7 @@ header.style-15 {
         font-weight: bold; }
 
 /* ===============================================================
-			[ * faq Section ] 
+			[ * faq Section ]
 ================================================================*/
 /* --------------- faq styles --------------- */
 .faq.style-3 .accordion-item {
@@ -8541,7 +8541,7 @@ header.style-15 {
         color: #fff; }
 
 /* ===============================================================
-			[ * community Section ] 
+			[ * community Section ]
 ================================================================*/
 /* --------------- community style-4 --------------- */
 .community.style-4 .content {
@@ -8690,7 +8690,7 @@ header.style-15 {
       margin-inline-start: 10px; }
 
 /* ===============================================================
-			[ * faq screenshots ] 
+			[ * faq screenshots ]
 ================================================================*/
 /* --------------- screenshots style-4 --------------- */
 .screenshots.style-4 {
@@ -8860,7 +8860,7 @@ header.style-15 {
     transform: translateX(100%); } }
 
 /* ===============================================================
-			[ * features Section ] 
+			[ * features Section ]
 ================================================================*/
 /* --------------- features style-4 --------------- */
 .features.style-4 {
@@ -9278,7 +9278,7 @@ header.style-15 {
       opacity: 60%; }
 
 /* ===============================================================
-			[ * numbers Section ] 
+			[ * numbers Section ]
 ================================================================*/
 /* --------------- numbers style-6 --------------- */
 .number-card.style-6 {
@@ -9450,7 +9450,7 @@ header.style-15 {
     text-transform: uppercase; }
 
 /* ===============================================================
-			[ * clients Section ] 
+			[ * clients Section ]
 ================================================================*/
 /* --------------- clients style-4 --------------- */
 .clients.style-4 {
@@ -9580,7 +9580,7 @@ header.style-15 {
       margin-top: 30px; }
 
 /* ===============================================================
-			[ * chat-banner Section ] 
+			[ * chat-banner Section ]
 ================================================================*/
 /* --------------- chat-banner styles --------------- */
 .chat-banner.style-3 {
@@ -9661,7 +9661,7 @@ header.style-15 {
     background-color: #fff; }
 
 /* ===============================================================
-			[ * contact Section ] 
+			[ * contact Section ]
 ================================================================*/
 /* --------------- contact style-1 --------------- */
 .contact.style-1 {
@@ -9886,7 +9886,7 @@ header.style-15 {
       object-position: center; }
 
 /* ===============================================================
-			[ * download Section ] 
+			[ * download Section ]
 ================================================================*/
 /* --------------- download style-5 --------------- */
 .download.style-5 .content h2 {
@@ -9906,7 +9906,7 @@ header.style-15 {
       transform: rotateY(180deg); }
 
 /* ===============================================================
-			[ * searcing Section ] 
+			[ * searcing Section ]
 ================================================================*/
 /* --------------- search styles --------------- */
 .domain-search.style-9 .domain-choose {
@@ -9976,7 +9976,7 @@ header.style-15 {
     font-weight: bold; }
 
 /* ===============================================================
-			[ * solutions Section ] 
+			[ * solutions Section ]
 ================================================================*/
 /* --------------- solutions styles --------------- */
 .solutions.style-10 .solution-card {
@@ -10009,7 +10009,7 @@ header.style-15 {
       filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(135deg) brightness(107%) contrast(106%); }
 
 /* ===============================================================
-			[ * sgin_up Section ] 
+			[ * sgin_up Section ]
 ================================================================*/
 /* --------------- sgin up styles --------------- */
 .signup.style-11 {
@@ -10054,7 +10054,7 @@ header.style-15 {
         text-transform: uppercase; }
 
 /* ===============================================================
-			[ * integration Section ] 
+			[ * integration Section ]
 ================================================================*/
 /* --------------- integrations styles --------------- */
 .integration.style-11 {
@@ -10108,7 +10108,7 @@ header.style-15 {
         left: 1%; }
 
 /* ===============================================================
-			[ * process Section ] 
+			[ * process Section ]
 ================================================================*/
 /* --------------- proccess styles --------------- */
 .process.style-12 .process-card {
@@ -10140,7 +10140,7 @@ header.style-15 {
     margin-top: 30px; }
 
 /* ===============================================================
-			[ * process Section ] 
+			[ * process Section ]
 ================================================================*/
 /* --------------- collections styles --------------- */
 .collections.style-12 .collection-card .top-info {
@@ -10197,7 +10197,7 @@ header.style-15 {
     object-fit: cover; }
 
 /* ===============================================================
-			[ * market Section ] 
+			[ * market Section ]
 ================================================================*/
 .markets {
   background-color: #080019; }
@@ -10265,7 +10265,7 @@ header.style-15 {
         font-weight: 500; }
 
 /* ===============================================================
-			[ * timeline Section ] 
+			[ * timeline Section ]
 ================================================================*/
 /* --------------- timeline styles --------------- */
 .timeline.style-15 {
@@ -10347,7 +10347,7 @@ header.style-15 {
         font-size: 16px; }
 
 /* ===============================================================
-			[ * footer Section ] 
+			[ * footer Section ]
 ================================================================*/
 /* --------------- footer styles --------------- */
 footer.style-1 {
@@ -11100,7 +11100,7 @@ footer.style-15 {
       color: #918d98; }
 
 /* ===============================================================
-			[ * inner_header Style ] 
+			[ * inner_header Style ]
 ================================================================*/
 /* --------------- inner-header style-5 --------------- */
 .inner-header.style-5 {
@@ -11137,7 +11137,7 @@ footer.style-15 {
       pointer-events: none; }
 
 /* ===============================================================
-			[ * portfolio_page Style ] 
+			[ * portfolio_page Style ]
 ================================================================*/
 /* --------------- portfolio-page style-1 --------------- */
 .portfolio-page.style-1 .portfolio-projects.style-1 {
@@ -11174,7 +11174,7 @@ footer.style-15 {
     animation: rotate-center 100s linear infinite both; }
 
 /* ===============================================================
-			[ * single_project Style ] 
+			[ * single_project Style ]
 ================================================================*/
 /* --------------- single-project style-5 --------------- */
 .single-project.style-5 .about-app.style-5 h1 {
@@ -11273,14 +11273,14 @@ footer.style-15 {
   background-color: var(--color-blue5); }
 
 /* ===============================================================
-			[ * services page Style ] 
+			[ * services page Style ]
 ================================================================*/
 /* --------------- services page styles --------------- */
 .services-page .features {
   background-color: #e7f1ff; }
 
 /* ===============================================================
-			[ * services page Style ] 
+			[ * services page Style ]
 ================================================================*/
 /* --------------- services page styles --------------- */
 .about-page header.style-5 {
@@ -11423,7 +11423,7 @@ footer.style-15 {
     opacity: 1; }
 
 /* ===============================================================
-			[ * contact page Style ] 
+			[ * contact page Style ]
 ================================================================*/
 /* --------------- contact page styles --------------- */
 .contact-page.style-5 .contact.style-6 .form-group .form-control:focus, .contact-page.style-5 .contact.style-6 .form-group .form-select:focus {
@@ -11434,9 +11434,9 @@ footer.style-15 {
   margin-bottom: -6px; }
 
 /* ===============================================================
-			[ * blog page Style ] 
+			[ * blogPages page Style ]
 ================================================================*/
-/* --------------- blog-page style-1 --------------- */
+/* --------------- blogPages-page style-1 --------------- */
 .blog-page.style-5 .blog-details-slider {
   position: relative;
   overflow: hidden; }
@@ -11819,7 +11819,7 @@ footer.style-15 {
   background-color: var(--color-blue4) !important; }
 
 /* ===============================================================
-			[ * shop page Style ] 
+			[ * shop page Style ]
 ================================================================*/
 /* --------------- services page styles --------------- */
 .shop-page .filter .filter-card {
@@ -12177,7 +12177,7 @@ footer.style-15 {
   background-color: var(--color-blue4); }
 
 /* ===============================================================
-			[ * shop product Style ] 
+			[ * shop product Style ]
 ================================================================*/
 /* --------------- services product styles --------------- */
 .product-page .product-slider {
@@ -12596,7 +12596,7 @@ footer.style-15 {
       color: #f73312; }
 
 /* ===============================================================
-			[ * faq page Style ] 
+			[ * faq page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .faq-page.style-5 .faq-tabs {
@@ -12728,7 +12728,7 @@ footer.style-15 {
     font-size: 12px; }
 
 /* ===============================================================
-			[ * careers page Style ] 
+			[ * careers page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .careers-page.style-5 .careers-features .careers-feat-card {
@@ -12880,7 +12880,7 @@ footer.style-15 {
     font-size: 16px; }
 
 /* ===============================================================
-			[ * careers details page Style ] 
+			[ * careers details page Style ]
 ================================================================*/
 /* --------------- career-details-page style-5 --------------- */
 .career-details-page.style-5 {
@@ -13053,7 +13053,7 @@ footer.style-15 {
       font-size: 16px; }
 
 /* ===============================================================
-			[ * about 2 page Style ] 
+			[ * about 2 page Style ]
 ================================================================*/
 /* --------------- about2 page style-5 --------------- */
 .about-page.style-2 {
@@ -13240,7 +13240,7 @@ footer.style-15 {
     position: relative; }
 
 /* ===============================================================
-			[ * services details page Style ] 
+			[ * services details page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .services-details-page.style-5 .ser-details p {
@@ -13358,7 +13358,7 @@ footer.style-15 {
         left: 15px; }
 
 /* ===============================================================
-			[ * services details page Style ] 
+			[ * services details page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .comming-soon-page.style-5 {
@@ -13461,7 +13461,7 @@ footer.style-15 {
     animation-delay: -0.7s; }
 
 /* ===============================================================
-			[ * 404 page Style ] 
+			[ * 404 page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .erorr-404-page.style-5 {
@@ -13490,7 +13490,7 @@ footer.style-15 {
         height: 550px; }
 
 /* ===============================================================
-			[ * 404 page Style ] 
+			[ * 404 page Style ]
 ================================================================*/
 /* --------------- faq-page style-5 --------------- */
 .signin-page.style-5 .signin {
@@ -13604,7 +13604,7 @@ footer.style-15 {
       width: 100%; } }
 
 /* ===============================================================
-			[ * responsive style ] 
+			[ * responsive style ]
 ================================================================*/
 /* -------------------- responsive style ------------------------- */
 @media screen and (max-width: 1100px) {
