@@ -2,23 +2,6 @@
 <section class="about style-1">
     <div class="container">
         <div class="content">
-            <div class="about-logos d-flex align-items-center justify-content-between border-bottom border-1 brd-light pb-20">
-                <a href="#" class="logo wow fadeInUp" data-wow-delay="0">
-                    <img src="{{asset('')}}assets/img/about/about_logos/1.png" alt="">
-                </a>
-                <a href="#" class="logo wow fadeInUp" data-wow-delay="0.2s">
-                    <img src="{{asset('')}}assets/img/about/about_logos/2.png" alt="">
-                </a>
-                <a href="#" class="logo wow fadeInUp" data-wow-delay="0.4s">
-                    <img src="{{asset('')}}assets/img/about/about_logos/3.png" alt="">
-                </a>
-                <a href="#" class="logo wow fadeInUp" data-wow-delay="0.6s">
-                    <img src="{{asset('')}}assets/img/about/about_logos/4.png" alt="">
-                </a>
-                <a href="#" class="logo wow fadeInUp" data-wow-delay="0.8s">
-                    <img src="{{asset('')}}assets/img/about/about_logos/5.png" alt="">
-                </a>
-            </div>
             <div class="about-info">
                 <div class="row justify-content-between">
                     <div class="col-lg-5">

@@ -6,7 +6,7 @@
                 <div class="col-lg-4">
                     <div class="foot_info">
                         <a href="#" class="logo mb-3">
-                            <img src="{{asset('assets/img/logo_cl.png')}}" alt="">
+                            <img src="{{asset('assets/img/logo_cd.png')}}" alt="">
                         </a>
                         <div class="text mb-4">
                             Best IT Solutions & Technology WordPress <br> Theme for Your Busines
@@ -140,7 +140,7 @@
             <div class="col-lg-12">
                 <div class="foot">
                     <p>
-                        © 2022 Copyrights by <a href="#" class="text-white text-decoration-underline">Iteck Co.</a> All Rights Reserved by <a href="#" class="text-white text-decoration-underline"> ThemesCamp </a>
+                        © 2022 Copyrights by <a href="#" class="text-white text-decoration-underline">United Software Solution</a> All Rights Reserved by <a href="#" class="text-white text-decoration-underline"> USS </a>
                     </p>
                 </div>
             </div>

@@ -6,7 +6,7 @@
                 <div class="col-lg-6">
                     <div class="info">
                         <div class="section-head mb-60">
-                            <h6 class="color-main text-uppercase">Iteck agency</h6>
+                            <h6 class="color-main text-uppercase">USS agency</h6>
                             <h2>
                                 Technology & IT <span class="fw-normal">Solutions</span>
                             </h2>

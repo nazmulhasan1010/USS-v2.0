@@ -17,7 +17,8 @@
                                 </span>
                             </h1>
                             <p>
-                                Iteck helps you unify your brand identity by collecting, storing and distributing <br> design
+                                Iteck helps you unify your brand identity by collecting, storing and distributing <br>
+                                design
                                 tokens and assets — automatically.
                             </p>
                         </div>
@@ -44,7 +45,7 @@
         <section class="community pt-40 style-5">
             <div class="container">
                 <div class="section-head text-center mb-40 style-5">
-                    <h2 class="mb-20"> Top <span> Reasons </span> </h2>
+                    <h2 class="mb-20"> Top <span> Reasons </span></h2>
                     <p>Unify your business data in one simple ecommerce dashboard</p>
                 </div>
                 <div class="content rounded-pill">
@@ -76,8 +77,6 @@
             </div>
         </section>
         <!-- ====== end Reasons ====== -->
-
-
         <!-- ====== start about ====== -->
         <section class="about section-padding style-5 style-6">
             <div class="content border-0 p-0">
@@ -85,10 +84,11 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2> Iteck’s <span> Philosophy </span> </h2>
+                                <h2> Iteck’s <span> Philosophy </span></h2>
                             </div>
                             <p>
-                                Like any great agency, we are only as good as the result we deliver of our recent work. Our developers are committed to maintaining the highest web standards so that your site.
+                                Like any great agency, we are only as good as the result we deliver of our recent work.
+                                Our developers are committed to maintaining the highest web standards so that your site.
                             </p>
                             <div class="line-links">
                                 <a href="#">Become 1st in the IT industrial</a>
@@ -120,7 +120,7 @@
                     <div class="col-lg-4">
                         <div class="info">
                             <div class="section-head mb-30 style-5">
-                                <h2> Our <span> Services </span> </h2>
+                                <h2> Our <span> Services </span></h2>
                             </div>
                             <div class="text mb-50 fs-12px color-666">
                                 With Iteck Marketplace, choose from hundreds of payment gateways for your customers.
@@ -133,7 +133,8 @@
                                     <div class="inf">
                                         <h5>IT Consultation</h5>
                                         <p class="fs-12px color-666 mt-2">
-                                            Nanotechnology immersion along the information high will close the loop on focusing solely
+                                            Nanotechnology immersion along the information high will close the loop on
+                                            focusing solely
                                         </p>
                                     </div>
                                 </li>
@@ -144,7 +145,8 @@
                                     <div class="inf">
                                         <h5>Software Design & Development</h5>
                                         <p class="fs-12px color-666 mt-2">
-                                            Our top-notch Experts with much years of experience certail will give best solutions for your business
+                                            Our top-notch Experts with much years of experience certail will give best
+                                            solutions for your business
                                         </p>
                                     </div>
                                 </li>
@@ -160,7 +162,8 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="page-services-5.html" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mt-60 px-5">
+                            <a href="page-services-5.html"
+                               class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mt-60 px-5">
                                 <span>See More </span>
                             </a>
                         </div>
@@ -170,95 +173,8 @@
             <img src="{{asset('')}}assets/img/about/about_s6_bubbles.png" alt="" class="bubbles rotate-center">
         </section>
         <!-- ====== end choose us ====== -->
-
-
-        <!-- ====== start clients ====== -->
-        <section class="clients section-padding style-5">
-            <div class="section-head text-center mb-40 style-5">
-                <h2 class="mb-20"> Trusted By Thoudsands <span> Business </span> </h2>
-                <p>More than 15,000 companies trust and choose Iteck</p>
-            </div>
-            <div class="content">
-                <div class="clients-slider5">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/7.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/8.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/9.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/10.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/11.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/12.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="clients-slider5" dir="rtl">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/13.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/14.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/15.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/16.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/17.png" alt="">
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="img">
-                                    <img src="{{asset('')}}assets/img/logos/9.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- ====== end clients ====== -->
-
-
         <!-- ====== start numbers ====== -->
-        <section class="numbers style-6">
+        <section class="numbers style-6 wow fadeInUp slow">
             <div class="container">
                 <div class="content pb-100 border-1 border-bottom brd-gray">
                     <div class="row">
@@ -297,12 +213,10 @@
             </div>
         </section>
         <!-- ====== end numbers ====== -->
-
-
         <!-- ====== start Culture ====== -->
         <section class="culture section-padding style-5">
             <div class="section-head text-center mb-70 style-5">
-                <h2 class="mb-20"> Discovery Our <span> Culture </span> </h2>
+                <h2 class="mb-20"> Discovery Our <span> Culture </span></h2>
                 <p>Company’s culture is a part important of any business</p>
             </div>
             <div class="content">
@@ -310,31 +224,36 @@
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <a href="{{asset('')}}assets/img/about/cl1.png" class="culture-card d-block" data-fancybox="gallery">
+                                <a href="{{asset('')}}assets/img/about/cl1.png" class="culture-card d-block"
+                                   data-fancybox="gallery">
                                     <img src="{{asset('')}}assets/img/about/cl1.png" alt="">
                                     <span class="overlay"></span>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="{{asset('')}}assets/img/about/cl2.png" class="culture-card d-block" data-fancybox="gallery">
+                                <a href="{{asset('')}}assets/img/about/cl2.png" class="culture-card d-block"
+                                   data-fancybox="gallery">
                                     <img src="{{asset('')}}assets/img/about/cl2.png" alt="">
                                     <span class="overlay"></span>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="{{asset('')}}assets/img/about/cl3.png" class="culture-card d-block" data-fancybox="gallery">
+                                <a href="{{asset('')}}assets/img/about/cl3.png" class="culture-card d-block"
+                                   data-fancybox="gallery">
                                     <img src="{{asset('')}}assets/img/about/cl3.png" alt="">
                                     <span class="overlay"></span>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="{{asset('')}}assets/img/about/cl1.png" class="culture-card d-block" data-fancybox="gallery">
+                                <a href="{{asset('')}}assets/img/about/cl1.png" class="culture-card d-block"
+                                   data-fancybox="gallery">
                                     <img src="{{asset('')}}assets/img/about/cl1.png" alt="">
                                     <span class="overlay"></span>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a href="{{asset('')}}assets/img/about/cl2.png" class="culture-card d-block" data-fancybox="gallery">
+                                <a href="{{asset('')}}assets/img/about/cl2.png" class="culture-card d-block"
+                                   data-fancybox="gallery">
                                     <img src="{{asset('')}}assets/img/about/cl2.png" alt="">
                                     <span class="overlay"></span>
                                 </a>
@@ -346,14 +265,12 @@
             </div>
         </section>
         <!-- ====== end Culture ====== -->
-
-
         <!-- ====== start team ====== -->
         <section class="team section-padding style-6">
             <div class="content">
                 <div class="container">
                     <div class="section-head text-center mb-70 style-5">
-                        <h2 class="mb-20"> Our <span> Leaders </span> </h2>
+                        <h2 class="mb-20"> Our <span> Leaders </span></h2>
                         <p>Profressional & Friendly is our slogan. Meet our leaders</p>
                     </div>
                     <div class="row">
@@ -462,13 +379,11 @@
             </div>
         </section>
         <!-- ====== end team ====== -->
-
-
         <!-- ====== start contact ====== -->
         <section class="contact section-padding border-bottom border-1 brd-gray style-6">
             <div class="container">
                 <div class="section-head text-center mb-70 style-5">
-                    <h2 class="mb-20"> Ready To Start A <span> Projects </span> </h2>
+                    <h2 class="mb-20"> Ready To Start A <span> Projects </span></h2>
                     <p>We will contact again after receive your request in 24h</p>
                 </div>
                 <div class="content">
@@ -484,23 +399,27 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="email" class="form-control" placeholder="Email Address *">
+                                            <input type="text" name="email" class="form-control"
+                                                   placeholder="Email Address *">
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="phone" class="form-control" placeholder="Phone Number (option)">
+                                            <input type="text" name="phone" class="form-control"
+                                                   placeholder="Phone Number (option)">
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="website" class="form-control" placeholder="Your Website (option)">
+                                            <input type="text" name="website" class="form-control"
+                                                   placeholder="Your Website (option)">
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-group mb-20">
                                             <select class="form-select" name="option">
-                                                <option value="How can we help you?" selected>How can we help you?</option>
+                                                <option value="How can we help you?" selected>How can we help you?
+                                                </option>
                                                 <option value="option 1">option 1</option>
                                                 <option value="option 2">option 2</option>
                                             </select>
@@ -508,19 +427,24 @@
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-group">
-                                            <textarea name="message" rows="10" class="form-control" placeholder="How can we help you?"></textarea>
+                                            <textarea name="message" rows="10" class="form-control"
+                                                      placeholder="How can we help you?"></textarea>
                                         </div>
                                     </div>
                                     <div class="col-lg-12 text-center">
                                         <div class="form-check d-inline-flex mt-30 mb-30">
-                                            <input class="form-check-input me-2 mt-0" type="checkbox" value="" id="flexCheckDefault">
+                                            <input class="form-check-input me-2 mt-0" type="checkbox" value=""
+                                                   id="flexCheckDefault">
                                             <label class="form-check-label small" for="flexCheckDefault">
-                                                By submitting, i’m agreed to the <a href="#" class="text-decoration-underline">Terms & Conditons</a>
+                                                By submitting, i’m agreed to the
+                                                <a href="#" class="text-decoration-underline">Terms
+                                                    & Conditons</a>
                                             </label>
                                         </div>
                                     </div>
                                     <div class="col-lg-12 text-center">
-                                        <input type="submit" value="Send Your Request" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
+                                        <input type="submit" value="Send Your Request"
+                                               class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
                                     </div>
                                 </div>
                             </form>
@@ -535,3 +459,11 @@
     </main>
     <!--End-Contents-->
 @endsection
+@push('onPageJs')
+    <script>
+        $('.counter').counterUp({
+            delay: 10,
+            time: 2000
+        });
+    </script>
+@endpush

@@ -48,7 +48,7 @@
 <!-- ====== end top navbar ====== -->
 
 <!-- ====== start navbar ====== -->
-<nav class="navbar navbar-expand-lg navbar-light style-1">
+<nav class="navbar navbar-expand-lg navbar-light style-1 p-2" style="z-index: 99999">
     <div class="container">
         <a class="navbar-brand" href="#">
             <img src="{{asset('')}}assets/img/logo_cd.png" alt="">
@@ -62,7 +62,7 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
                     <a class="nav-link " href="{{url('/')}}">
-                        Homes
+                        Home
                     </a>
                 </li>
                 <li class="nav-item">
@@ -98,16 +98,12 @@
                     </div>
                     <div class="cont">
                         <small class="text-muted m-0">hotline 24/7</small>
-                        <h6>(+23) 5535 68 68</h6>
+                        <h6>(+880) 1708169403-4</h6>
                     </div>
                 </div>
                 <div class="qoute-nav ps-4">
                     <a href="#" class="search-icon me-3">
                         <i class="bi bi-search"></i>
-                    </a>
-                    <a href="#" class="cart-icon me-3">
-                        <i class="bi bi-cart"></i>
-                        <span class="cart-num">2</span>
                     </a>
                     <a href="page-contact-5.html" class="btn sm-butn butn-gard border-0 text-white">
                         <span>Free Quote</span>
