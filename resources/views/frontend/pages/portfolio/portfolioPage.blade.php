@@ -232,11 +232,8 @@
                                 </span>
                             </h2>
                             <div class="butns mt-70">
-                                <a href="page-contact-5.html" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mx-1">
+                                <a href="{{route('contact')}}" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mx-1">
                                     <span> Start A Project Now </span>
-                                </a>
-                                <a href="page-about-5.html" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mx-1">
-                                    <span> See Pricing & Plan </span>
                                 </a>
                             </div>
                         </div>

@@ -78,6 +78,7 @@
                         </div>
                     </div>
                     <img src="{{asset('')}}assets/img/about/about_15_img.svg" alt="" class="head6-png right">
+                    <img src="{{asset('assets/img/about/num_shap.png')}}" alt="" class="about_shap left">
                 </div>
             </header>
         </div>
@@ -100,6 +101,7 @@
                         </div>
                     </div>
                     <img src="{{asset('')}}assets/img/about/2mobiles.png" alt="" class="head6-png left">
+                    <img src="{{asset('assets/img/about/num_shapright.png')}}" alt="" class="about_shap right">
                 </div>
             </header>
         </div>
@@ -122,6 +124,7 @@
                         </div>
                     </div>
                     <img src="{{asset('')}}assets/img/about/2mobiles.png" alt="" class="head6-png left">
+                    <img src="{{asset('assets/img/about/num_shapright.png')}}" alt="" class="about_shap right">
                 </div>
             </header>
         </div>

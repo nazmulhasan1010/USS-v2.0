@@ -46,4 +46,9 @@ class pageController extends Controller
     {
         return view('frontend.pages.aboutPage');
     }
+
+    public function pageNotFound()
+    {
+        return view('frontend.pages.404Page');
+    }
 }

@@ -12,22 +12,22 @@
                 <div class="col-lg-5">
                     <div class="contact_info text-white">
                         <p class="wow fadeInUp">Hotline 24/7</p>
-                        <h4 class="wow fadeInUp">(+23) 5535 68 68</h4>
+                        <h4 class="wow fadeInUp"> (+880) 1708 169 403-4</h4>
                         <ul>
                             <li class="wow fadeInUp">
-                                <strong>Address : </strong> 58 Howard Street,  San Francisco, CA 941
+                                <strong>Address : </strong>  Mirpur-1, Dhaka-1216
                             </li>
                             <li class="wow fadeInUp">
-                                <strong>Email : </strong> contact@Iteck.co
+                                <strong>Email : </strong>  info.ussit@gmail.com
                             </li>
                             <li class="wow fadeInUp">
-                                <strong>Fax : </strong> fax@Iteck.co
+                                <strong>Facebook : </strong> https://www.facebook.com/ussbd2014
                             </li>
                             <li class="wow fadeInUp">
-                                <strong>Work Hour : </strong> Mon - Sat: 9:00 - 18:00
+                                <strong>Work Hour : </strong> Sat - Thu: 10:00 - 18:00
                             </li>
                         </ul>
-                        <a href="#" class="wow fadeInUp">get direction</a>
+                        <a href="{{route('contact')}}#map-direction" class="wow fadeInUp">get direction</a>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1">

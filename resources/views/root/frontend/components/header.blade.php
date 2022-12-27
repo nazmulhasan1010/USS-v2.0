@@ -61,32 +61,32 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
-                    <a class="nav-link " href="{{url('/')}}">
+                    <a class="nav-link {{ Request::is('/')? 'active' : '' }} " href="{{url('/')}}">
                         Home
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('about')}}">
+                    <a class="nav-link {{Request::is('about')?'active':''}}" href="{{route('about')}}">
                         About
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('services')}}">
+                    <a class="nav-link {{Request::is('services')?'active':''}}" href="{{route('services')}}">
                         Services
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('portfolio')}}">
+                    <a class="nav-link {{Request::is('portfolio*')?'active':''}}" href="{{route('portfolio')}}">
                         portfolio
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('blog')}}">
+                    <a class="nav-link {{Request::is('blog*')?'active':''}}" href="{{route('blog')}}">
                         blog
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('contact')}}">
+                    <a class="nav-link {{Request::is('contact')?'active':''}}" href="{{route('contact')}}">
                         contact
                     </a>
                 </li>
@@ -102,11 +102,8 @@
                     </div>
                 </div>
                 <div class="qoute-nav ps-4">
-                    <a href="#" class="search-icon me-3">
-                        <i class="bi bi-search"></i>
-                    </a>
-                    <a href="page-contact-5.html" class="btn sm-butn butn-gard border-0 text-white">
-                        <span>Free Quote</span>
+                    <a href="{{route('contact')}}" class="btn sm-butn butn-gard border-0 text-white">
+                        <span>Contact Us</span>
                     </a>
                 </div>
             </div>

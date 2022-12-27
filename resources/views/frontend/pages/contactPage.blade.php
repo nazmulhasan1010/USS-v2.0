@@ -11,11 +11,11 @@
                     <p>We will contact again after receive your request in 24h</p>
                 </div>
                 <div class="text-center mb-100">
-                    <h2 class="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 color-blue5">(+23) 5535 68 68</h2>
-                    <h4 class="fw-normal mb-20 color-000">contact@Itecksolution.com</h4>
-                    <h4 class="fw-normal mb-10 color-000">58 Howard St, San Francisco, CA 941</h4>
+                    <h2 class="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 color-blue5">(+880) 1708 169 403-4</h2>
+                    <h4 class="fw-normal mb-20 color-000">info.ussit@gmail.com</h4>
+                    <h4 class="fw-normal mb-10 color-000">Mirpur-1, Dhaka-1216</h4>
                 </div>
-                <div class="content">
+                <div class="content" id="contact-field">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <form action="https://iteck-html.themescamp.com/contact.php" class="form" method="post">
@@ -78,8 +78,8 @@
         <!-- ====== end contact page ====== -->
 
         <!-- ====== start contact page ====== -->
-        <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24219.60999175365!2d-73.9764341314902!3d40.64198229194528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b400c94a227%3A0x18e2a4d3fb21f0ec!2sFlatbush%2C%20Brooklyn%2C%20NY%2C%20USA!5e0!3m2!1sen!2seg!4v1651361759450!5m2!1sen!2seg" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="map" id="map-direction">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.15953737612978!2d90.35278382262682!3d23.798941197451843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c16c2aaa02d3%3A0xfd0a01a6e38da45b!2sUnited%20Software%20Solutions!5e0!3m2!1sen!2sbd!4v1672137350937!5m2!1sen!2sbd" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <!-- ====== start contact page ====== -->
     </main>

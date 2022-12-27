@@ -70,7 +70,7 @@
                             <img src="{{asset('')}}assets/img/icons/message3d.png" alt="">
                         </div>
                         <div class="inf">
-                            <h5>Affordable Price</h5>
+                            <h5>Easy to communicate</h5>
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2> Iteck’s <span> Philosophy </span></h2>
+                                <h2> USS’s <span> Philosophy </span></h2>
                             </div>
                             <p>
                                 Like any great agency, we are only as good as the result we deliver of our recent work.
@@ -123,7 +123,7 @@
                                 <h2> Our <span> Services </span></h2>
                             </div>
                             <div class="text mb-50 fs-12px color-666">
-                                With Iteck Marketplace, choose from hundreds of payment gateways for your customers.
+                                With USS Marketplace, choose from hundreds of payment gateways for your customers.
                             </div>
                             <ul>
                                 <li class="d-flex mb-40">
@@ -162,7 +162,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="page-services-5.html"
+                            <a href="{{route('services')}}"
                                class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mt-60 px-5">
                                 <span>See More </span>
                             </a>
@@ -174,7 +174,7 @@
         </section>
         <!-- ====== end choose us ====== -->
         <!-- ====== start numbers ====== -->
-        <section class="numbers style-6 wow fadeInUp slow">
+        <section class="numbers style-6 wow fadeInUp slow mt-5">
             <div class="container">
                 <div class="content pb-100 border-1 border-bottom brd-gray">
                     <div class="row">
@@ -214,7 +214,7 @@
         </section>
         <!-- ====== end numbers ====== -->
         <!-- ====== start Culture ====== -->
-        <section class="culture section-padding style-5">
+        <section class="culture section-padding style-5" id="culture">
             <div class="section-head text-center mb-70 style-5">
                 <h2 class="mb-20"> Discovery Our <span> Culture </span></h2>
                 <p>Company’s culture is a part important of any business</p>
@@ -265,120 +265,6 @@
             </div>
         </section>
         <!-- ====== end Culture ====== -->
-        <!-- ====== start team ====== -->
-        <section class="team section-padding style-6">
-            <div class="content">
-                <div class="container">
-                    <div class="section-head text-center mb-70 style-5">
-                        <h2 class="mb-20"> Our <span> Leaders </span></h2>
-                        <p>Profressional & Friendly is our slogan. Meet our leaders</p>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="team-card mb-30 mb-lg-0 style-6">
-                                <div class="img img-cover">
-                                    <img src="{{asset('')}}assets/img/team/1.jpg" alt="">
-                                    <div class="social-icons">
-                                        <a href="#">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-linkedin-in"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-github"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <a class="d-block" href="#"><h6>Michael Edwards</h6></a>
-                                    <small>CEO Founder</small>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="team-card mb-30 mb-lg-0 style-6">
-                                <div class="img img-cover">
-                                    <img src="{{asset('')}}assets/img/team/5.jpg" alt="">
-                                    <div class="social-icons">
-                                        <a href="#">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-linkedin-in"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-github"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <a class="d-block" href="#"><h6>Bobby Kane</h6></a>
-                                    <small>CTO</small>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="team-card mb-30 mb-lg-0 style-6">
-                                <div class="img img-cover">
-                                    <img src="{{asset('')}}assets/img/team/3.jpg" alt="">
-                                    <div class="social-icons">
-                                        <a href="#">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-linkedin-in"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-github"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <a class="d-block" href="#"><h6>Robert Downey Jr</h6></a>
-                                    <small>Project Manager</small>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="team-card style-6">
-                                <div class="img img-cover">
-                                    <img src="{{asset('')}}assets/img/team/4.jpg" alt="">
-                                    <div class="social-icons">
-                                        <a href="#">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-linkedin-in"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="fab fa-github"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="info">
-                                    <a class="d-block" href="#"><h6>Andrew Robertson</h6></a>
-                                    <small>Marketing Leader</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- ====== end team ====== -->
         <!-- ====== start contact ====== -->
         <section class="contact section-padding border-bottom border-1 brd-gray style-6">
             <div class="container">

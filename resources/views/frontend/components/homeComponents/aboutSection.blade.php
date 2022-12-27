@@ -14,7 +14,7 @@
                         <div class="info">
                             <h6 class=" wow fadeInUp slow">We can help to maintain and modernize your IT infrastructure  & solve various infrastructure-specific issues a business may face.</h6>
                             <p class=" wow fadeInUp slow">Iteck Co is the partner of choice for many of the world’s leading  enterprises, SMEs and technology challengers. We help businesses  elevate their value through custom software development, product  design, QA and consultancy services.</p>
-                            <a href="page-about-5.html" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
+                            <a href="{{route('about')}}" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                 <span>more about us</span>
                             </a>
                         </div>
@@ -79,7 +79,7 @@
                     </div>
                 </div>
             </div>
-            <img src="assets/img/about/num_shap.png" alt="" class="about_shap">
+            <img src="{{asset('assets/img/about/num_shap.png')}}" alt="" class="about_shap">
         </div>
     </div>
 </section>

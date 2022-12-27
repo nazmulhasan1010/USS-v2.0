@@ -1,8 +1,8 @@
 <!-- ====== start clients ====== -->
 <section class="clients section-padding style-5">
     <div class="section-head text-center mb-40 style-5">
-        <h2 class="mb-20"> Trusted By Thoudsands <span> Business </span></h2>
-        <p>More than 15,000 companies trust and choose Iteck</p>
+        <h2 class="mb-20"> Trusted By Thousands <span> Business </span></h2>
+        <p>More than 15,000 companies trust and choose USS</p>
     </div>
     <div class="content">
         <div class="clients-slider5">

@@ -11,3 +11,4 @@ Route::get('blog', [pageController::class, 'blogs'])->name('blog');
 Route::get('post', [pageController::class, 'singlePost'])->name('post');
 Route::get('contact', [pageController::class, 'contactPage'])->name('contact');
 Route::get('about', [pageController::class, 'aboutPage'])->name('about');
+Route::get('400page', [pageController::class, 'pageNotFound'])->name('400page');

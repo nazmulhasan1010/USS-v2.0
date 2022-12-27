@@ -102,13 +102,14 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- ====== slider pagination ====== -->
-                <div class="swiper-pagination"></div>
-
-                <!-- ====== slider navigation ====== -->
+                                <!-- ====== slider navigation ====== -->
                 <div class="swiper-button-next"></div>
                 <div class="swiper-button-prev"></div>
+            </div>
+            <div class="more-button">
+                <a href="{{route('portfolio')}}" class="btn butn-gard border-0 text-white wow fadeInUp">
+                    <span>See More</span>
+                </a>
             </div>
         </div>
     </div>

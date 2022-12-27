@@ -17,9 +17,11 @@
 }
 
 .carousel-item .style-6 .content.gradiant-3 {
-    background: linear-gradient(to top right, #02b5ff 0%, #0c3df4  100%)
+    background: linear-gradient(to right, #0c3df4, #02b5ff)
 }
-
+.carousel-item .style-6 .content .head6-png{
+    z-index: 1;
+}
 .carousel-item .style-6 .content .head6-png.right {
     position: absolute;
     right: 10px;
@@ -30,6 +32,19 @@
     position: absolute;
     left: 10px;
     top: 20px;
+}
+
+.carousel-item .style-6 .content .about_shap.left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.carousel-item .style-6 .content .about_shap.right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform:rotateY(180deg)
 }
 
 .carousel-item .style-6 .content .container .row.left {
@@ -79,4 +94,23 @@
 
 .carousel-item .style-6 .gradiant-3 .container .row .col-lg-8 .info h6 {
     color: rgb(241, 239, 239);
+}
+
+.carousel-item .style-6 .gradiant-3 .container .row .col-lg-8 .info .text {
+    color: rgb(241, 239, 239);
+}
+
+/*slider end */
+
+.more-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+/*nav link hover*/
+.navbar .container .collapse .navbar-nav .nav-item .nav-link:hover{
+    color: #0775f9;
 }

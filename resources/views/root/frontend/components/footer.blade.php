@@ -15,19 +15,19 @@
                             <li class="d-flex">
                                 <i class="bi bi-house me-3"></i>
                                 <a href="#">
-                                    <span>58 Howard St, San Francisco, CA 941</span>
+                                    <span>Mirpur-1, Dhaka-1216</span>
                                 </a>
                             </li>
                             <li class="d-flex">
                                 <i class="bi bi-envelope me-3"></i>
                                 <a href="#">
-                                    <span>contact@Iteck.co</span>
+                                    <span>info.ussit@gmail.com</span>
                                 </a>
                             </li>
                             <li class="d-flex">
                                 <i class="bi bi-phone me-3"></i>
                                 <a href="#">
-                                    <span>(+23) 5535 68 68</span>
+                                    <span>(+880) 1708 169 403-4</span>
                                 </a>
                             </li>
                         </ul>
@@ -55,25 +55,25 @@
                             </h6>
                             <ul>
                                 <li>
-                                    <a href="#">IT Consultations </a>
+                                    <a href="{{route('services')}}">IT Consultations </a>
                                 </li>
                                 <li>
-                                    <a href="#">Data Security </a>
+                                    <a href="{{route('services')}}">Data Security </a>
                                 </li>
                                 <li>
-                                    <a href="#">Website Development </a>
+                                    <a href="{{route('services')}}">Website Development </a>
                                 </li>
                                 <li>
-                                    <a href="#">UI/UX Design </a>
+                                    <a href="{{route('services')}}">UI/UX Design </a>
                                 </li>
                                 <li>
-                                    <a href="#">Cloud Services </a>
+                                    <a href="{{route('services')}}">Cloud Services </a>
                                 </li>
                                 <li>
-                                    <a href="#">Game Development </a>
+                                    <a href="{{route('services')}}">Game Development </a>
                                 </li>
                                 <li>
-                                    <a href="#">CRM & Software </a>
+                                    <a href="{{route('services')}}">CRM & Software </a>
                                 </li>
                             </ul>
                         </div>
@@ -87,31 +87,25 @@
                             </h6>
                             <ul>
                                 <li>
-                                    <a href="#">About Iteck </a>
+                                    <a href="{{route('about')}}">About USS </a>
                                 </li>
                                 <li>
-                                    <a href="#">Investors </a>
+                                    <a href="{{route('blog')}}">Blog </a>
                                 </li>
                                 <li>
-                                    <a href="#">Blog </a>
+                                    <a href="{{route('blog')}}">Career </a>
                                 </li>
                                 <li>
-                                    <a href="#">Career </a>
+                                    <a href="{{route('contact')}}">Contact </a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact </a>
+                                    <a href="{{route('portfolio')}}">Portfolio </a>
                                 </li>
                                 <li>
-                                    <a href="#">Affiliate Program </a>
+                                    <a href="{{route('about')}}#culture">Culture </a>
                                 </li>
                                 <li>
-                                    <a href="#">How It Works </a>
-                                </li>
-                                <li>
-                                    <a href="#">Pricing Plan </a>
-                                </li>
-                                <li>
-                                    <a href="#">Covid-19 Update </a>
+                                    <a href="{{route('contact')}}#contact-field">Start a project </a>
                                 </li>
                             </ul>
                         </div>
