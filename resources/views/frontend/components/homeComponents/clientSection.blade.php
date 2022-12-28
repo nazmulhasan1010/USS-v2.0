@@ -10,32 +10,32 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/7.png" alt="">
+                            <img src="{{asset('assets/img/logos/heifer-2.png')}}" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/8.png" alt="">
+                            <img src="{{asset('assets/img/logos/heifer.png')}}" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/9.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/pms.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/10.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/pksf.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/11.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/aasco.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/12.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/winagro.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -47,32 +47,32 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/13.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/aicl.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/14.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/wasa.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/15.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/pms.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/16.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/dls.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/17.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/heifer.png" alt="">
                         </a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#" class="img">
-                            <img src="{{asset('')}}assets/img/logos/9.png" alt="">
+                            <img src="{{asset('')}}assets/img/logos/pksf.png" alt="">
                         </a>
                     </div>
                 </div>

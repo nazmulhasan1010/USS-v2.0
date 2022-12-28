@@ -1,5 +1,5 @@
 <!-- ====== start choose-us====== -->
-<section class="choose-us section-padding pt-0 style-1">
+<section class="choose-us section-padding style-1" style="padding: 100px 0">
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-lg-5">
@@ -55,8 +55,8 @@
             </div>
         </div>
     </div>
-    <img src="{{asset('')}}assets/img/choose_us/choose_lines.svg" alt="" class="choose-us-img">
-    <img src="{{asset('')}}assets/img/choose_us/choose_brands.png" alt="" class="choose-us-brands">
-    <img src="{{asset('')}}assets/img/choose_us/choose_bubbles.png" alt="" class="choose-us-bubbles">
+    <img src="{{asset('assets/img/choose_us/choose_lines.svg')}}" alt="" class="choose-us-img">
+    <img src="{{asset('assets/img/choose_us/choose_brands-1.png')}}" alt="" class="choose-us-brands">
+    <img src="{{asset('assets/img/choose_us/choose_bubbles-1.png')}}" alt="" class="choose-us-bubbles">
 </section>
 <!-- ====== end choose-us====== -->

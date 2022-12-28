@@ -17,7 +17,7 @@
                                 </span>
                             </h1>
                             <p>
-                                Iteck helps you unify your brand identity by collecting, storing and distributing <br>
+                                USS helps you unify your brand identity by collecting, storing and distributing <br>
                                 design
                                 tokens and assets — automatically.
                             </p>
@@ -86,10 +86,36 @@
                             <div class="section-head mb-30 style-5">
                                 <h2> USS’s <span> Philosophy </span></h2>
                             </div>
-                            <p>
-                                Like any great agency, we are only as good as the result we deliver of our recent work.
-                                Our developers are committed to maintaining the highest web standards so that your site.
+                            <p id="our_story_hide" class="d-none">
+                                United Software Solutions (USS) is a leading IT service provider enlisted in BASIS.
+                                Skill of end-to-end process automation, Management and benchmarking software for
+                                national and international NGO’s, Agro-based industry, Pesticide-insecticide,
+                                educational sector. The market leading software platform USS is built for grounds up and
+                                is a completely web-based application that is far superior to a traditional ERP system
+                                available from branded players in the market. As the name suggests, the USS platform
+                                consists of several integrated modules that provide a 360 degree real time view of the
+                                business, leveraging dashboards and intelligent drill down tools.
+                                United Software Solutions is an organization that distinguishes and advances people who
+                                are inspired, live with veracity, and share our core mission of working for the good of
+                                others.
+
+                                Our fortitude is to make an assessable impact on human flourishing in the world. We
+                                believe that what we make and how we work should make it a little bit healthier to be
+                                thriving: for us, our clients, and their customers.
+
+                                United Software Solutions is an IT Solution provider and a privately held company whose
+                                offices is located in Mirpur, Dhaka. The company has been operating since 2014. We
+                                specialize in Sales, Support and Maintenance of Custom Software Development, Software
+                                Product Development, IT Consulting, Web Application Development & Mobile Application to
+                                Small and Midsize Businesses (SMBs), Corporate Offices, NGOs, and Government
+                                institutions in Bangladesh.
+
+                                We are a group of young and experienced energetic professionals working as the driving
+                                force behind the United Software Solutions since its inception in Bangladesh. Within
+                                short span of time, we have already earned a good reputation by our own sincere effort
+                                and hard work.
                             </p>
+                            <p id="our_story"></p>
                             <div class="line-links">
                                 <a href="#">Become 1st in the IT industrial</a>
                                 <a href="#">Competitive Price</a>
@@ -351,5 +377,30 @@
             delay: 10,
             time: 2000
         });
+
+        // see more option
+        let texts = $('#our_story_hide').text(),
+            len = texts.length;
+        if (len > 450) {
+            $('#our_story').html('<p class="about-texts">' + texts.substring(0, 450) + '</p><span class="text_see_more_button" >See more</span>')
+        } else {
+            $('#our_story').html(texts);
+        }
+        $('.text_see_more_button').click(function () {
+            let allText = $(this).parent().parent().find('#our_story_hide').text(),
+                sowText = $('.about-texts').text(),
+                showLen = sowText.length,
+                allTextLen = allText.length;
+            if (allTextLen > 450 && showLen < allTextLen) {
+                $('.about-texts').text(allText);
+                $(this).text('See less');
+            }
+            if ( allTextLen > 450 && showLen === allTextLen) {
+                $('.about-texts').text(texts.substring(0, 450));
+                $(this).text('See more');
+            }
+        });
+
+
     </script>
 @endpush

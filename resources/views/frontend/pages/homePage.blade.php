@@ -2,10 +2,10 @@
 @section('title','Home')
 @section('content')
     @include('frontend.components.homeComponents.sliderSection')
-    @include('frontend.components.homeComponents.headerSection')
+{{--    @include('frontend.components.homeComponents.headerSection')--}}
     <main>
-        @include('frontend.components.homeComponents.aboutSection')
         @include('frontend.components.homeComponents.servicesSection')
+        @include('frontend.components.homeComponents.aboutSection')
         @include('frontend.components.homeComponents.whyUsSection')
         @include('frontend.components.homeComponents.portfolioSection')
         @include('frontend.components.homeComponents.clientSection')

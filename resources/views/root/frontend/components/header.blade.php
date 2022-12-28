@@ -61,32 +61,33 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item dropdown">
-                    <a class="nav-link {{ Request::is('/')? 'active' : '' }} " href="{{url('/')}}">
+                    <a class="nav-link {{ Request::is('/')? 'active' : '' }} " href="{{url('/')}}" id="nav-link" data-toggle="tooltip" title="Home">
                         Home
                     </a>
+
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{Request::is('about')?'active':''}}" href="{{route('about')}}">
+                    <a class="nav-link {{Request::is('about')?'active':''}}" href="{{route('about')}}" data-toggle="tooltip" title="About">
                         About
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{Request::is('services')?'active':''}}" href="{{route('services')}}">
-                        Services
+                    <a class="nav-link {{Request::is('team')?'active':''}}" href="{{route('teamMember')}}" data-toggle="tooltip" title="Team Members">
+                        Team Members
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{Request::is('portfolio*')?'active':''}}" href="{{route('portfolio')}}">
+                    <a class="nav-link {{Request::is('portfolio*')?'active':''}}" href="{{route('portfolio')}}" data-toggle="tooltip" title="Portfolio">
                         portfolio
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{Request::is('blog*')?'active':''}}" href="{{route('blog')}}">
+                    <a class="nav-link {{Request::is('blog*')?'active':''}}" href="{{route('blog')}}" data-toggle="tooltip" title="Blog">
                         blog
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{Request::is('contact')?'active':''}}" href="{{route('contact')}}">
+                    <a class="nav-link {{Request::is('contact')?'active':''}}" href="{{route('contact')}}" data-toggle="tooltip" title="Contact">
                         contact
                     </a>
                 </li>
@@ -102,7 +103,7 @@
                     </div>
                 </div>
                 <div class="qoute-nav ps-4">
-                    <a href="{{route('contact')}}" class="btn sm-butn butn-gard border-0 text-white">
+                    <a href="{{route('contact')}}" class="btn sm-butn butn-gard border-0 text-white" data-toggle="tooltip" title="To contact us click here">
                         <span>Contact Us</span>
                     </a>
                 </div>
@@ -111,3 +112,4 @@
     </div>
 </nav>
 <!-- ====== end navbar ====== -->
+

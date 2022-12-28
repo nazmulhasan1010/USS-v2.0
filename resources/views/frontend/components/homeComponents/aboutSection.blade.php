@@ -13,7 +13,7 @@
                     <div class="col-lg-6">
                         <div class="info">
                             <h6 class=" wow fadeInUp slow">We can help to maintain and modernize your IT infrastructure  & solve various infrastructure-specific issues a business may face.</h6>
-                            <p class=" wow fadeInUp slow">Iteck Co is the partner of choice for many of the world’s leading  enterprises, SMEs and technology challengers. We help businesses  elevate their value through custom software development, product  design, QA and consultancy services.</p>
+                            <p class=" wow fadeInUp slow">United Software Solutions (USS) is a leading IT service provider enlisted in BASIS. Skill of end-to-end process automation, Management and benchmarking software for national and international NGO’s, Agro-based industry, Pesticide-insecticide, educational sector.</p>
                             <a href="{{route('about')}}" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                 <span>more about us</span>
                             </a>

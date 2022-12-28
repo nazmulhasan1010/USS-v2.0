@@ -100,19 +100,19 @@
                 <div class="col-lg-4">
                     <div class="service-box mb-4 mb-md-0 wow fadeInUp" data-wow-delay="0.2s">
                         <h5>
-                            <a href="page-services-5.html"> Cloud Services </a>
+                            <a href="page-services-5.html"> Software Development </a>
                             <span class="num">05</span>
                         </h5>
                         <div class="icon">
-                            <img src="{{asset('')}}assets/img/icons/serv_icons/5.png" alt="">
+                            <img src="{{asset('')}}assets/img/icons/serv_icons/soft-dev.png" alt="">
                         </div>
                         <div class="info">
                             <div class="text">
                                 Trust our top minds to eliminate workflow pain points, implement new tech & app.
                             </div>
                             <div class="tags">
-                                <a href="#">Cloud Storerage</a>
-                                <a href="#">Hosting & VPS</a>
+                                <a href="#">Mobile Apps</a>
+                                <a href="#">Desktop Apps</a>
                             </div>
                         </div>
                     </div>
@@ -120,26 +120,29 @@
                 <div class="col-lg-4">
                     <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
                         <h5>
-                            <a href="page-services-5.html"> Game Development </a>
+                            <a href="page-services-5.html"> Digital Marketing </a>
                             <span class="num">06</span>
                         </h5>
                         <div class="icon">
-                            <img src="{{asset('')}}assets/img/icons/serv_icons/6.png" alt="">
+                            <img src="{{asset('')}}assets/img/icons/serv_icons/dig-mar.png" alt="">
                         </div>
                         <div class="info">
                             <div class="text">
                                 Trust our top minds to eliminate workflow pain points, implement new tech & app.
                             </div>
                             <div class="tags">
-                                <a href="#">Unity 2D/3D</a>
-                                <a href="#">VR/AR</a>
-                                <a href="#">iOS & Android</a>
-                                <a href="#">HTC Vive</a>
+                                <a href="#">Facebook Marketing</a>
+                                <a href="#">Youtube Marketing</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+{{--            <div class="more-button">--}}
+{{--                <a href="{{route('services')}}" class="btn butn-gard border-0 text-white wow fadeInUp">--}}
+{{--                    <span>See All Services</span>--}}
+{{--                </a>--}}
+{{--            </div>--}}
         </div>
     </div>
     <img src="{{asset('')}}assets/img/services/ser_shap_l.png" alt="" class="ser_shap_l">

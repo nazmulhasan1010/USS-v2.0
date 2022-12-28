@@ -51,4 +51,9 @@ class pageController extends Controller
     {
         return view('frontend.pages.404Page');
     }
+
+    public function teamMember()
+    {
+        return view('frontend.pages.teamPage');
+    }
 }

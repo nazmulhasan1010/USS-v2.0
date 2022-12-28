@@ -33,7 +33,9 @@
     left: 10px;
     top: 20px;
 }
-
+.carousel-item .style-6 .content .about_shap{
+    opacity: .7;
+}
 .carousel-item .style-6 .content .about_shap.left {
     position: absolute;
     left: 0;
@@ -113,4 +115,21 @@
 /*nav link hover*/
 .navbar .container .collapse .navbar-nav .nav-item .nav-link:hover{
     color: #0775f9;
+}
+#our_story{
+    position: relative;
+}
+span.text_see_more_button{
+    border: none;
+    background-color: transparent;
+    padding: 0 10px;
+    text-shadow: 0 2px 7px #333;
+    font-weight: bold;
+    color: rgba(51, 51, 51, 0.60);
+    position: absolute;
+    bottom: 0;
+    right: 60px;
+}
+span.text_see_more_button:hover{
+    color: rgba(51, 51, 51, 0.80);
 }

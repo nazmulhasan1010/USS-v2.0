@@ -113,7 +113,7 @@
             </div>
         </div>
         <div class="bttns mt-4 text-center">
-            <a href="page-about-5.html" class="btn btn-dark wow zoomIn">
+            <a href="{{route('teamMember')}}" class="btn btn-dark wow zoomIn">
                 <span>See All Team</span>
             </a>
             <a href="page-contact-5.html" class="btn butn-gard border-0 text-white wow zoomIn">
